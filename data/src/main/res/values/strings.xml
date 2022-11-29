@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key">5144d9236bb2fa64510284ed4384755c</string>
+    <string name="network_error">Error en la conexion de internet</string>
+    <string name="converter_error">Error al parsear datos</string>
+</resources>
